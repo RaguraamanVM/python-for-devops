@@ -1,5 +1,3 @@
-<img width="423" height="764" alt="image" src="https://github.com/user-attachments/assets/27d3d6ca-efe2-4051-bb77-0208c4e8f3a1" />
-
 # python-for-devops
 To learn and practice Python for DevOps
 
